@@ -2,7 +2,6 @@ package com.example.simplelogin
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
@@ -33,11 +32,6 @@ class LoginScreenActivity : AppCompatActivity() {
 
     }
 
-
-
-//                val intent = Intent(this, HomeScreenActivity::class.java)
-//                Toast.makeText(this@MainActivity, "Login Successfull", Toast.LENGTH_SHORT).show()
-//                startActivity(intent)
 
     }
 
